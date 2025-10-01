@@ -8,6 +8,7 @@
 
 - 🧑‍💻 I'm a AWS engineer.
 - 🌱 I’m currently learning Devops!
+- 📝 My Resume : [rt-art.jp](https://rt-art.jp/)  
 - 📫 How to reach me: [qiita - @RT-art](https://qiita.com/rt-art)
 <br>
 
