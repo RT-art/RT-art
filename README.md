@@ -35,7 +35,7 @@
   </a>
 </p>
 
-- 🎓 [**CKA（Certified Kubernetes Administrator）**](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)  
+- 🎓 [**Certified Kubernetes Administrator（CKA）**](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)  
 - 🎓 [**AWS Certified Solutions Architect – Professional (SAP)**](https://www.credly.com/badges/204d9325-a6f1-4a9d-a33a-5f2b7e83a488/public_url)  
 - 🎓 [**AWS Certified Solutions Architect – Associate (SAA)**](https://www.credly.com/badges/671e443d-49a2-4e63-8e80-8ab3d36e9b64/public_url)  
 - 🎓 [**AWS Certified Cloud Practitioner (CLF)**](https://www.credly.com/badges/1fcb4e6c-98b5-4824-a866-8ddce10b4310/public_url)  
