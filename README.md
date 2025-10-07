@@ -21,6 +21,9 @@
 
 ## 🏅 Certifications
 <p>
+  <a href="https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator" target="_blank" style="text-decoration:none;">
+    <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="64" alt="CKA Certified Kubernetes Administrator" />
+  </a>
   <a href="https://www.credly.com/badges/204d9325-a6f1-4a9d-a33a-5f2b7e83a488/public_url" target="_blank" style="text-decoration:none;">
     <img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="64" alt="AWS Certified Solutions Architect – Professional" />
   </a>
@@ -32,10 +35,10 @@
   </a>
 </p>
 
+- 🎓 [**CKA（Certified Kubernetes Administrator）**](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)  
 - 🎓 [**AWS Certified Solutions Architect – Professional (SAP)**](https://www.credly.com/badges/204d9325-a6f1-4a9d-a33a-5f2b7e83a488/public_url)  
 - 🎓 [**AWS Certified Solutions Architect – Associate (SAA)**](https://www.credly.com/badges/671e443d-49a2-4e63-8e80-8ab3d36e9b64/public_url)  
 - 🎓 [**AWS Certified Cloud Practitioner (CLF)**](https://www.credly.com/badges/1fcb4e6c-98b5-4824-a866-8ddce10b4310/public_url)  
-
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
